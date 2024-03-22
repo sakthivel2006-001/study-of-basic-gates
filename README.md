@@ -72,7 +72,7 @@ Y= A⊕B
 ![WhatsApp Image 2024-03-22 at 13 26 07_90057726](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/97780930-6697-446c-952d-7e6af82b7a31)
 
 
-**RTL realization**
+**RTL realization:**
 
 ![Screenshot 2024-03-22 133414](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/f9d2d60c-499a-4095-904b-4cca6f9fa004)
 
