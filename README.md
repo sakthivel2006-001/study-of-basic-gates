@@ -72,13 +72,17 @@ Y= A⊕B
 ![WhatsApp Image 2024-03-22 at 13 26 07_90057726](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/97780930-6697-446c-952d-7e6af82b7a31)
 
 
-**RTL realization Output:**
+**RTL realization**
+![Screenshot 2024-03-22 133414](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/f9d2d60c-499a-4095-904b-4cca6f9fa004)
 
-![Screenshot 2024-03-22 133414](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/4b3b8f41-f53c-4215-acdd-dfcf1e65b416)
+
+Output:**
+![Screenshot 2024-03-22 133542](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/2a503100-846d-49e9-ba6c-7a816cb33e3c)
 
 
 **Result:**
-![Screenshot 2024-03-22 133542](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/61a0749e-0766-44fb-a3e5-d29d5733a367)
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+
 
 
 
