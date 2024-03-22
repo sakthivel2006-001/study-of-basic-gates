@@ -73,14 +73,17 @@ Y= A⊕B
 
 
 **RTL realization**
+
 ![Screenshot 2024-03-22 133414](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/f9d2d60c-499a-4095-904b-4cca6f9fa004)
 
 
-Output:**
+**Output:**
 ![Screenshot 2024-03-22 133542](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/2a503100-846d-49e9-ba6c-7a816cb33e3c)
 
 
 **Result:**
+
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
 
