@@ -73,10 +73,9 @@ Y= A⊕B
 
 
 **RTL realization Output:**
+
 ![Screenshot 2024-03-22 133414](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/4b3b8f41-f53c-4215-acdd-dfcf1e65b416)
 
-
-**RTL**
 
 **Result:**
 ![Screenshot 2024-03-22 133542](https://github.com/sakthivel2006-001/study-of-basic-gates/assets/151398732/61a0749e-0766-44fb-a3e5-d29d5733a367)
